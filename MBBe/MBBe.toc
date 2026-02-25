@@ -1,8 +1,8 @@
 ## Interface: 120001, 50502, 40402, 30405, 20505, 11508
-## Title: MBBe
+## Title: MinimapButtonButton Enhancements
 ## Notes: MinimapButtonButton enhancement suite (requires MinimapButtonButton)
 ## Author: Seathasky
-## Version: 1.0.0
+## Version: 1.0.1
 ## Category: User Interface
 ## IconTexture: Interface\AddOns\MBBe\Icons\mbbe.png
 ## Dependencies: MinimapButtonButton
